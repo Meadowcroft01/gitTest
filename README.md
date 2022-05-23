@@ -1,4 +1,4 @@
-gitTest
+Norfolk Outreach 2022
 @Meadowcroft01
 
-Example git repository containing examples of OOP fundamentals.
+Example git repository containing some java examples.
